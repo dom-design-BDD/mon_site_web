@@ -1,0 +1,108 @@
+[33mcommit 3b2474cecef9802c158e5df80f3db43330af304f[m[33m ([m[1;36mHEAD -> [m[1;32mEXO[m[33m)[m
+Author: dom <dom@email.com>
+Date:   Fri Feb 25 17:15:46 2022 +0100
+
+    Ajout d'une médaille d'or
+
+[33mcommit ae205ef8a8e0a100f251ae9db3e3cae18d1f8af8[m[33m ([m[1;33mtag: MON_SITE_4[m[33m)[m
+Author: ‘clone’ <dom@email.com>
+Date:   Thu Feb 24 15:59:57 2022 +0100
+
+    Ajout d'une médaille d'argent au fichier hello.html
+
+[33mcommit 1f6ffb732cbea7bc4c34e133eee18a7e89898cbc[m
+Author: dom <dom@email.com>
+Date:   Thu Feb 24 15:46:33 2022 +0100
+
+    Suppression du filtre sur les fichiers xml
+
+[33mcommit 4595039f4752da785bfac532bf08231505cb9cf4[m
+Author: dom <dom@email.com>
+Date:   Thu Feb 24 15:13:41 2022 +0100
+
+    Suppression de la 1ère ligne
+
+[33mcommit dfef48692e61d17c6940fd70f4d49d11af6e7654[m
+Merge: 7c5629a ebf3ca3
+Author: ‘clone’ <dom@email.com>
+Date:   Thu Feb 24 11:32:20 2022 +0100
+
+    Merge de mes commit
+
+[33mcommit 7c5629a54f8db19363a256ff397106d38e0819b0[m
+Author: ‘clone’ <dom@email.com>
+Date:   Thu Feb 24 11:22:07 2022 +0100
+
+    Exclusion des fichiers .xml
+
+[33mcommit ebf3ca331e01dbdc52da82b951b32dcc4c5664cd[m
+Author: dom <dom@email.com>
+Date:   Thu Feb 24 10:56:26 2022 +0100
+
+    Exclusion des fichiers .txt
+
+[33mcommit aaa91f53dabbb16d978a2965cce24bec67bdc83f[m
+Author: ‘clone’ <dom@email.com>
+Date:   Thu Feb 24 10:24:23 2022 +0100
+
+    Filtrage sur le fichier .gitignore
+
+[33mcommit 2164dc64860b779ba3cffbf70be0b38344d5359c[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 23 21:17:17 2022 +0100
+
+    2è Modification du contenu de .gitignore
+
+[33mcommit 4bb6c0ab7fad92d2ac87a2baf7571094efdbdbbf[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 23 21:16:22 2022 +0100
+
+    Modification du contenu de .gitignore
+
+[33mcommit 929a2bf5bd2aa753386dc0b793503bf3d9ca8f98[m[33m ([m[1;33mtag: MON_SITE_V3[m[33m)[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 23 20:06:52 2022 +0100
+
+    Ajout d'une image Médaille de Bronze dans le fichier Hello.html
+
+[33mcommit 1242761ad41a3cc5270e825bb943d80cf1bc3b9f[m
+Author: dom <dom@email.com>
+Date:   Thu Feb 17 22:46:03 2022 +0100
+
+    Ajout nouveau fichier README
+
+[33mcommit ba6680e93278cd58f2315b331480be01561377d3[m
+Author: ‘clone’ <dom@email.com>
+Date:   Thu Feb 17 22:38:55 2022 +0100
+
+    Ajout d'un 2è paragraphe
+
+[33mcommit 472a901023481aa9ea8fe5cb7b318832e948eebc[m
+Author: dom <dom@email.com>
+Date:   Thu Feb 17 21:38:49 2022 +0100
+
+    Ajout fichier .gitignore
+
+[33mcommit 76e7dd95d7191ea13e33eebbe64224480dedd1ba[m[33m ([m[1;33mtag: MON_SITE_V2[m[33m)[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 16 15:12:33 2022 +0100
+
+    Ajout des titres
+
+[33mcommit 9c0335b82f37d69ba1bd8ca5b815ae1ced75ebc9[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 16 14:15:57 2022 +0100
+
+    Ajout de balises div et p pour description
+
+[33mcommit 69c1264c6a6a87032397a0da08a00712f665bf06[m[33m ([m[1;33mtag: –delete[m[33m, [m[1;33mtag: –-delete[m[33m, [m[1;33mtag: MON_SITE_V1[m[33m)[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 16 14:06:32 2022 +0100
+
+    Ajout du Top-banner
+
+[33mcommit 644480593ce2d5dad8c0bcc1eaa3c03626ac51cc[m
+Author: dom <dom@email.com>
+Date:   Wed Feb 16 13:57:03 2022 +0100
+
+    mon premier commit
